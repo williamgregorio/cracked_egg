@@ -4,8 +4,9 @@ using namespace std;
 
 int main()
 {
+	int flow = 0
 
-	return 0;
+	return flow;
 }
 
 //arr of elements 
