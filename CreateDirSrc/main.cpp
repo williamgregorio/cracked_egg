@@ -1,4 +1,4 @@
-#include <iosstream>
+#include <iostream>
 #include <string>
 
 #ifdef _WIN32
@@ -7,6 +7,7 @@
 #else
 	#include <sys/stat.h>
 	#include <unistd.h>
+#endif
 
 using namespace std;
 
